@@ -80,16 +80,6 @@ Project ini dibuat sebagai sarana **latihan dan pembelajaran** dalam pengembanga
 
 ---
 
-## 📂 Struktur Singkat
-
-```
-app/
-database/
-resources/
-routes/
-public/
-
-```
 
 <div align="center">
 
