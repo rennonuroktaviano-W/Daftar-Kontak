@@ -88,18 +88,8 @@ database/
 resources/
 routes/
 public/
+
 ```
-
-
-## 👨‍💻 Author
-
-| Data | Keterangan |
-| ---- | ---------- |
-| **Nama**    | ___________________ |
-| **Kelas**   | ___________________ |
-| **Sekolah** | ___________________ |
-
----
 
 <div align="center">
 
