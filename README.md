@@ -16,7 +16,8 @@
 
 ## 📚 Nama Kelas
 
-**Kelas:** `________________`
+**Nama:** `Renno Nur Oktaviano`
+**Kelas:** `XII RPL`
 
 ---
 
