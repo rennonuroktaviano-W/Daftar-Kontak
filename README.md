@@ -90,49 +90,6 @@ routes/
 public/
 ```
 
----
-
-## 🚀 Cara Menjalankan Project
-
-1. **Clone repository**
-   ```bash
-   git clone https://github.com/username/contact-list-crud.git
-   ```
-
-2. **Install dependency**
-   ```bash
-   composer install
-   ```
-
-3. **Copy file `.env`**
-   ```bash
-   cp .env.example .env
-   ```
-
-4. **Generate application key**
-   ```bash
-   php artisan key:generate
-   ```
-
-5. **Konfigurasi database MySQL**
-   > Sesuaikan `DB_DATABASE`, `DB_USERNAME`, dan `DB_PASSWORD` pada file `.env`
-
-6. **Jalankan migration**
-   ```bash
-   php artisan migrate
-   ```
-
-7. **Jalankan server Laravel**
-   ```bash
-   php artisan serve
-   ```
-
-8. **Buka aplikasi di browser**
-   ```
-   http://127.0.0.1:8000
-   ```
-
----
 
 ## 👨‍💻 Author
 
